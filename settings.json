@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Peacefulserver324.aternos.me",
-    "port": 56865,
+    "ip": "marmoset.aternos.host:30573",
+    "port": 30573,
     "version": "",
     "try-creative": false
   },
