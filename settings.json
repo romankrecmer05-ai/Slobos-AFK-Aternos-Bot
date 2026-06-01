@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "Peacefulserver324.aternos.me",
-    "port": 22659,
+    "port": 45469,
     "version": "1.21.1",
     "try-creative": false
   },
@@ -73,12 +73,12 @@
     "place-night": false
   },
   "discord": {
-    "enabled": false,
+    "enabled": true,
     "webhookUrl": "https://discord.gg/abwDVCE3y",
     "events": {
       "connect": true,
       "disconnect": false,
-      "chat": false
+      "chat": ftrue
     }
   },
   "chat": {
