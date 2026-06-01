@@ -5,11 +5,11 @@
     "password": "",
     "type": "offline"
   },
-  "server": {
-    "ip": "marmoset.aternos.host:30573",
+  "server": {peacefulserver},
+    "ip": "Peacefulserver324.aternos.me",
     "port": 30573,
     "version": "",
-    "try-creative": false
+    "try-creative": true
   },
   "position": {
     "enabled": true,
