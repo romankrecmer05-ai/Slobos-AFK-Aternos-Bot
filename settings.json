@@ -13,9 +13,10 @@
   },
   "position": {
     "enabled": true,
-    "x": 0,
+    "x": 8,
     "y": 100,
-    "z": 0
+    "z": 8
+  
   },
   "utils": {
     "auto-auth": {
