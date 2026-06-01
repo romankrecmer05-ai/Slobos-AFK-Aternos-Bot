@@ -5,7 +5,7 @@
     "password": "",
     "type": "offline"
   },
-  "server": {peacefulserver},
+  "server": {
     "ip": "Peacefulserver324.aternos.me",
     "port": 30573,
     "version": "",
