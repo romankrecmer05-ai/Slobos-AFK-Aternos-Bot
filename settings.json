@@ -77,7 +77,7 @@
     "webhookUrl": "https://discord.gg/abwDVCE3y",
     "events": {
       "connect": true,
-      "disconnect": false,
+      "disconnect": true,
       "chat": true
     }
   },
