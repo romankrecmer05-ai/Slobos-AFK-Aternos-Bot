@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "Peacefulserver324.aternos.me",
-    "port": 45469,
+    "port": 10000 ,
     "version": "1.21.1",
     "try-creative": false
   },
