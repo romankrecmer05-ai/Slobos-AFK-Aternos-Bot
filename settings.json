@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": " Peacefulserver324.aternos.me",
+    "ip": " Peacefulserver324.aternos.me:23691",
     "port": 23691,
     "version": "",
     "try-creative": false
