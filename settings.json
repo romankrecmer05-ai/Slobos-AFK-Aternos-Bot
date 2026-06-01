@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": " Peacefulserver324.aternos.me",
+    "ip": "razorfish.aternos.host:46748",
     "port": 46748,
     "version": "1.26.21",
     "try-creative": true
