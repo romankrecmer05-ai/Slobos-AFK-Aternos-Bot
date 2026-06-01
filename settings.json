@@ -9,7 +9,7 @@
     "ip": "Peacefulserver324.aternos.me",
     "port": 22659,
     "version": "1.21.1",
-    "try-creative": true
+    "try-creative": false
   },
   "position": {
     "enabled": true,
@@ -19,7 +19,7 @@
   },
   "utils": {
     "auto-auth": {
-      "enabled": true,
+      "enabled": false,
       "password": "chalol78"
     },
     "anti-afk": {
@@ -77,7 +77,7 @@
     "webhookUrl": "https://discord.gg/abwDVCE3y",
     "events": {
       "connect": true,
-      "disconnect": true,
+      "disconnect": false,
       "chat": false
     }
   },
